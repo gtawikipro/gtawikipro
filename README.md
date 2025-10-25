@@ -26,6 +26,7 @@
   <a href="https://gtawiki.pro">
     <img src="https://gtawiki.pro/second.webp" alt="Logo" width="1920" height="1080">
   </a>
+</div>
 
 
 
