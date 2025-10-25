@@ -6,7 +6,7 @@
   </a>
 
 <h3 align="center">GTA Wiki Pro</h3>
-
+</div>
   <p align="center">
     Creează documentație completă pentru serverul tău - regulamente, ghiduri și tutoriale - în câteva minute. Integrează bot-ul nostru inteligent care învață automat din conținutul tău și răspunde instant la întrebările jucătorilor.
     <br />
