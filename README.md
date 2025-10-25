@@ -22,22 +22,10 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Despre
 <div align="center">
   <a href="https://gtawiki.pro">
-    <img src="https://gtawiki.pro/second.webp" alt="Logo" width="80" height="80">
+    <img src="https://gtawiki.pro/second.webp" alt="Logo" width="1920" height="1080">
   </a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
