@@ -23,10 +23,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Despre
-
-https://gtawiki.pro/second.webp
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+<div align="center">
+  <a href="https://gtawiki.pro">
+    <img src="https://gtawiki.pro/second.webp" alt="Logo" width="80" height="80">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -46,7 +46,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 Ei bine, am conceput acest proiect pentru ca oricine sa poata crea o documentatie, wiki sau regulament in cativa pasi super simplu.
 
-1. Get a free API Key at [https://gtawiki.pro/register](https://gtawiki.pro/register)
+1. Te inregistrezi -> [https://gtawiki.pro/register](https://gtawiki.pro/register)
 2. Creezi un wiki si adaugi categoriile, paginile si continutul dorit.
 3. Sincronizezi Luna AI cu continutul adaugat
 4. Gasesti wiki-ul tau disponibil la: `numeletau.gtawiki.pro`
